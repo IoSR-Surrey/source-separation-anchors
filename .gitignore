@@ -1,0 +1,8 @@
+__pycache__/
+*.egg-info/
+
+audio/*
+!audio/vox.wav
+!audio/bass.wav
+!audio/drums.wav
+!audio/other.wav
