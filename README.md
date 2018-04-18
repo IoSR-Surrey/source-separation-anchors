@@ -1,7 +1,8 @@
 # ssanchors
 
-A python package for generating anchor stimuli, suitable for the subjective
-evaluation of source separation algorithms using MUSHRA-type protocols.
+A python package for generating anchor stimuli suitable for the subjective
+evaluation of source separation algorithms using
+[MUSHRA](https://en.wikipedia.org/wiki/MUSHRA)-type protocols.
 
 **Beta Release - Not Fully Tested**
 
