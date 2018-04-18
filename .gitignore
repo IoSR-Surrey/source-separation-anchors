@@ -6,3 +6,4 @@ audio/*
 !audio/bass.wav
 !audio/drums.wav
 !audio/other.wav
+!audio/about.md
